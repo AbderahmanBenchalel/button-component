@@ -1,8 +1,29 @@
-# React + Vite
+<!-- TABLE OF CONTENTS -->
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Table of Contents
 
-Currently, two official plugins are available:
+- [Overview](#overview)
+- [Built With](#built-with)
+- [Features](#features)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<!-- OVERVIEW -->
+
+## Overview
+
+![screenshot](./public/photo-one.png)
+![screenshot](./public/photo-two.png)
+This project is a reusable button component for React developers. It provides several customization options, such as color styles, button variants, and styles for the disabled status. Developers can also disable the shadow effect on the button.
+
+## Features
+
+- Customizable color styles
+- Button variants (e.g., outline, text)
+- Style for disabled status
+- Option to disable shadow effect
+
+## Built With
+
+- [React](https://react.dev/?ref=jonas.io)
+- [Styled Components](https://styled-components.com/)
+
+  This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/ohgVTyJCbm5OZyTB2gNY) was to build an application to complete the given user stories.

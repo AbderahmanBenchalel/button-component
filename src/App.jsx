@@ -1,7 +1,7 @@
 import Button from "./Button";
 import { GlobalStyles } from "./GlobalStyles";
 
-import { IcCart, IcDelete, IcSeat } from "./assets/Icons";
+import { IcCart, IcDelete, IcSeat } from "./Icons";
 
 function App() {
   return (
