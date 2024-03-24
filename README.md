@@ -12,7 +12,7 @@
 
 ![screenshot](./public/photo-one.png)
 ![screenshot](./public/photo-two.png)
-This project is a reusable button component for React developers. It provides several customization options, such as color styles, button variants, and styles for the disabled status. Developers can also disable the shadow effect on the button.
+This project is a reusable button component for React developers. It provides several customization options, such as color styles, button variants, and styles for the disabled status. Developers can also disable the shadow effect on the button. [demo](https://button-component-sand.vercel.app/)
 
 ## Features
 
